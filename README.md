@@ -2,12 +2,12 @@
 
 ![npm](https://img.shields.io/npm/v/@jeffstern/jeffsnpm.svg)
 
-Here's my readme!
+I'm following a tutorial to make an npm package, but maybe I'll make a better one soon
 
 ## Install
 
 ```
-$ npm install @jeffstern/jeffstern
+$ npm install @jeffstern/jeffsnpm
 ```
 
 ## Usage
