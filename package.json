@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "Removes all spaces from a string",
   "license": "Apache License 2.0",
-  "repository": "jeffstern/jeffsnpm",
+  "repository": "jeffstern/jeffsnpmwithbadrepositoryurl",
   "main": "index.js",
   "keywords": [
     "jeffsnpm"
